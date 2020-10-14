@@ -1,0 +1,16 @@
+3,12
+continent0,3
+continent1,1
+continent2,2
+pays0|0|4,1,2
+pays1|0|0,3
+pays2|0|0,3
+pays3|0|2,1,4,11
+pays4|0|0,5,3
+pays5|1|4,6,7
+pays6|1|5,7
+pays7|1|5,6,8
+pays8|2|7,9,10,11
+pays9|2|10,8
+pays10|2|11,8,9
+pays11|2|3,8,10

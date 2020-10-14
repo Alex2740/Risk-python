@@ -1,0 +1,74 @@
+9,64
+Hârâdwâith,2
+Mordor,2
+Rhovânion,5
+Mirkwood,4
+Rhûn,2
+Ârnor,7
+Eriâdor,3
+Ronân,4
+Gondor,7
+Umbâr|0|1
+Deep hârâd|0|0,2
+Hârâd|0|5,3,1
+Near hârâd|0|4,2
+Khând|0|3
+Hârondor|0|63,2
+Nurn|1|7
+Gorgoroth|1|8,6,11,9
+Bârâd-dûr|1|7,9
+Mount doom|1|10,8,7
+Udûn|1|12,9
+Minâs mouqul|1|62,7
+Dead mârshez|2|15,13,10,62
+Brown lânds|2|21,25,14,12,15,20
+Rhûn hills|2|13
+Emyn muil|2|24,20,13,12,16
+The wold|2|17,15,50,51
+Lorien|2|18,16,51
+Glâdden Fields|2|24,17,19
+Moriâ|2|18,53
+South mirkwood|3|21,13,15,24
+Eastern mirkwood|3|22,13,20,24
+North mirkwood|3|28,21,23
+Cârrock|3|29,22,24,39
+Ânduin vâlley|3|23,21,20,15,18
+South rhûn|4|26,13
+North rhûn|4|30,25,27
+Withered heath|4|30,26,28
+Esgâroth|4|27,22
+Eastern ângmâr|5|23,30
+Forodwâith|5|26,27,29,31,32
+Ângmâr|5|30,32
+Borderlânds|5|30,31,38,34,33,41,42
+North downs|5|32,34
+Fornost|5|33,32,38,37,35
+Bucklând|5|34,37,36,40
+South downs|5|37,38,47,25
+Old forest|5|38,36,35,34
+Weather hills|5|32,39,36,37,34
+Rhudâur|5|38,23,53
+The shire|6|46,35
+Evendim hills|6|32,46,42
+Lune vâlley|6|32,41,46,45
+Forlindon|6|45
+Hârlindon|6|45
+Mithlond|6|42,46,44,43
+Tower hills|6|42,41,40,45
+Minhiriâth|7|36,52,48
+Enedwâith|7|52,50,47
+West rohân|7|50,54
+Gâp of rohân|7|51,16,61,49,48
+Fângorn|7|17,16,50
+Dunlând|7|53,48,47
+Eregion|7|39,19,52
+Druwâith|8|49,56
+Ândrâst|8|56
+Ânfâlâs|8|57,55,54
+Vâle of Erech|8|58,56
+Lâmedon|8|60,59,57
+Belfâlâs|8|60,58
+Lebennin|8|61,59,58
+Minâs tirith|8|50,62,60
+Ithilien|8|12,11,63,61
+South ithilien|8|62,5

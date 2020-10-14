@@ -1,0 +1,39 @@
+6,32
+Dépot garde nationale,5
+Ferme Greene,4
+Wiltshire Estates,4
+Camp de survie,2
+Woodburry,4
+Prison,10
+Périmètre delta|0|1,21
+Dépot d'armes|0|2,22,21
+Avant-poste de la garde nationale|0|6,3,4,22,1
+Périmètre alpha|0|2,6,5,25,4
+Corps de garde|0|2,3,25,22
+Ferme de la famille Greene|1|3,6,8,11,9,10,25
+Terres agricoles|1|2,7,8,5,3
+Décharge|1|6,8
+Piste d'atterrissage abandonnée|1|5,6,7,11
+Prairie|1|5,11,13,27,10
+Grange de la famille Greene|1|5,9,27,26,25
+Wiltshire Estates|2|9,8,12,13,5
+Ecole primaire|2|13,11,15,16
+Golf|2|9,11,12,16,17,18,14,27
+Forêt est|2|27,13,18,19,28
+Forêt sud|3|12,16
+Forêt ouest|3|13,12,15,17
+Zone d'approvisionnement|3|18,13,16
+Camp des survivants d'Atlanta|3|19,14,13,17
+Forêt nord|4|20,23,28,14,18
+Hôpital de Woodbury|4|21,24,23,19
+Centre-ville de Woodbury|4|0,1,22,24,20
+Centre  commercial|4|1,2,4,25,23,24,21
+Refectoire|4|22,25,29,31,28,19,20,24
+Arène de combat|4|21,22,23,20
+Relais routier|5|4,3,5,10,26,29,23,22
+Aire de détente|5|29,25,10,27,31,30
+Forêt centrale|5|31,26,10,9,13,14,28
+Station-service abandonnée|5|23,31,27,14,19
+Ecuries|5|25,26,30,31,23
+Prison|5|29,26,31
+Parking|5|23,29,30,26,27,28

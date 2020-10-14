@@ -1,0 +1,49 @@
+6,42
+Europe,5
+Asie,7
+Amérique du Nord,5
+Amérique du Sud,2
+Afrique,3
+Océanie,2
+Grande-Bretagne|0|1,3,2,6
+Islande|0|0,3,23
+Europe du Nord|0|0,3,6,4,5
+Scandinavie|0|0,1,2,5
+Europe du Sud|0|6,2,5,13,34
+Ukraine|0|3,2,4,13,7,17
+Europe occidentale|0|0,2,4,36
+Afghanistan|1|5,8,9,13,17
+Chine|1|7,9,14,15,16,17
+Inde|1|7,8,13,15
+Tchita|1|12,14,16,18
+Japon|1|12,14
+Kamtchatka|1|10,14,11,18,19
+Moyen-Orient|1|7,9,4,5,33,34
+Mongolie|1|8,10,11,12,16
+Siam|1|8,9,39
+Sibérie|1|8,10,14,17,18
+Oural|1|5,16,7,8
+Yakoutie|1|10,12,16
+Alaska|2|12,20,24
+Alberta|2|19,24,25,27
+Amérique Centrale|2|22,27,31
+États de l'Est|2|21,25,26,27
+Groenland|2|24,25,26,1
+Territoires de Nord-Ouest|2|19,20,23,25
+Ontario|2|20,22,23,24,26,27
+Québec|2|22,23,25
+États de l'Ouest|2|20,21,22,25
+Argentine|3|29,30
+Brésil|3|28,30,31,36
+Pérou|3|28,29,31
+Venezuela|3|29,30,21
+Congo|4|33,36,37
+Afrique de l'Est|4|32,34,35,36,37,13
+Égypte|4|33,36,4,13
+Madagascar|4|33,37
+Afrique du Nord|4|6,32,33,34,29
+Afrique de Sud|4|32,33,35
+Australie Orientale|5|40,41
+Indonésie|5|40,41,15
+Nouvelle-Guinée|5|38,39,41
+Australie Occidentale|5|38,39,40
